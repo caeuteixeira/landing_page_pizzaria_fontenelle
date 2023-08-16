@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../fundamentos"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/projeto pizza fontenelle"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projeto pizza fontenelle"
+	}
+}
